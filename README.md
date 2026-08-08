@@ -941,13 +941,66 @@ The following screenshots can be added to demonstrate the successful execution o
 
 ---
 
-You can add each screenshot to the README using:
-
-```html
+# Database
 <p align="center">
-  <img src="Screenshots/Database.png" width="900" alt="Database">
+  <img src="Database.png" width="900" alt="Database">
 </p>
-```
+# Categories Table
+<p align="center">
+  <img src="Categories.png" width="900" alt="Categoies">
+</p>
+# Products Table
+<p align="center">
+  <img src="Products.png" width="900" alt="Products">
+</p>
+# Customers Table
+<p align="center">
+  <img src="Customers.png" width="900" alt="Customers">
+</p>
+# Orders Table
+<p align="center">
+  <img src="Orders.png" width="900" alt="Orders">
+</p>
+# Orders_Items Table
+<p align="center">
+  <img src="Order_Items.png" width="900" alt="Order_Items">
+</p>
+# Payment Table
+<p align="center">
+  <img src="Payment.png" width="900" alt="Payment">
+</p>
+# Shipping Table
+<p align="center">
+  <img src="Shipping.png" width="900" alt="Shipping">
+</p>
+# Inner Join
+<p align="center">
+  <img src="Inner Join.png" width="900" alt="Inner Join">
+</p>
+# Left Join
+<p align="center">
+  <img src="left Join.png" width="900" alt="left Join">
+</p>
+# Aggregate Function
+<p align="center">
+  <img src="Aggregate Function.png" width="900" alt="Aggregate Function">
+</p>
+# Case Statement
+<p align="center">
+  <img src="Cases.png" width="900" alt="Case">
+</p>
+# Date Function
+<p align="center">
+  <img src="Date Function.png" width="900" alt="Date Function">
+</p>
+# String Function
+<p align="center">
+  <img src="Strin Function.png" width="900" alt="Strin Function">
+</p>
+# SubQuery
+<p align="center">
+  <img src="Subquery.png" width="900" alt="Subquery">
+</p>
 
 ---
 
