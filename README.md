@@ -979,7 +979,7 @@ The following screenshots can be added to demonstrate the successful execution o
 </p>
 # Left Join
 <p align="center">
-  <img src="left Join.png" width="900" alt="left Join">
+  <img src="left join.png" width="900" alt="left join">
 </p>
 # Aggregate Function
 <p align="center">
