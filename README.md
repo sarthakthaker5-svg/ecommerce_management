@@ -987,11 +987,11 @@ The following screenshots can be added to demonstrate the successful execution o
 </p>
 # Case Statement
 <p align="center">
-  <img src="Cases.png" width="900" alt="Case">
+  <img src="Case.png" width="900" alt="Case">
 </p>
 # Date Function
 <p align="center">
-  <img src="Date Function.png" width="900" alt="Date Function">
+  <img src="Date function.png" width="900" alt="Date function">
 </p>
 # String Function
 <p align="center">
