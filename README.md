@@ -31,7 +31,20 @@ It demonstrates how SQL can be used to create and manage an e-commerce database,
 The project covers SQL concepts ranging from basic database creation and data insertion to advanced topics such as **JOINs, subqueries, aggregate functions, date functions, string functions, window functions, COALESCE, NULLIF, and CASE expressions**.
 
 ---
+# 🎥 Project Demo Video
 
+<p align="center">
+
+<a href="https://drive.google.com/file/d/1U-raw_boKEIsTmXHUhMZuaDrOyQuJTGF/view" target="_blank">
+
+<img src="https://img.shields.io/badge/▶️%20Watch%20Project%20Demo-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+
+</a>
+
+</p>
+
+> 📺 Click the button above to watch the complete project demonstration and SQL explanation video.
+---
 # 🎯 Objectives
 
 * Learn relational database design using MySQL.
